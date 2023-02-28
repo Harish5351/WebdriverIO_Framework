@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1677557841819' stop='1677557843927'>
+    <name>Checking calculator functionality: Verify user can perform multiple operation</name>
+    <title>Checking calculator functionality: Verify user can perform multiple operation</title>
+    <test-cases>
+        <test-case start='1677557841820' status='passed' stop='1677557841820'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1677557841820' status='passed' stop='1677557842216'>
+            <name>Given User is on calculator page</name>
+            <title>Given User is on calculator page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1677557842217' status='passed' stop='1677557842856'>
+            <name>When User clicks on num1 "6"</name>
+            <title>When User clicks on num1 "6"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='957e3c92-c56b-4364-9dc5-29f302330940-attachment.png' type='image/png' size='251004'/>
+                <attachment title='Screenshot' source='a37da092-d33b-4826-90e5-d8bbec87326a-attachment.png' type='image/png' size='251004'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677557842856' status='passed' stop='1677557843208'>
+            <name>And User clicks on the "/"</name>
+            <title>And User clicks on the "/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='36eb2abe-2a0b-4d78-84f0-c259e8bdd5d6-attachment.png' type='image/png' size='251689'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677557843208' status='passed' stop='1677557843586'>
+            <name>And User clicks on num2 "2"</name>
+            <title>And User clicks on num2 "2"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dba60696-a77e-45c2-a8a0-be85b396b806-attachment.png' type='image/png' size='251025'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677557843586' status='passed' stop='1677557843925'>
+            <name>Then User verifies "3"</name>
+            <title>Then User verifies "3"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3d2b1a72-34af-4a82-b4d2-1c7d9cc05ed9-attachment.png' type='image/png' size='251926'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677557843926' status='passed' stop='1677557843926'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-110.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
